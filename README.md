@@ -1,4 +1,4 @@
-# chartdragon
+# cheatdragon
 
 自治体職員として20年の経験を活かし、  
 LINE公式アカウントの情報配信で活用するFlex MessageのJSONコードを日常的に管理しています。  
